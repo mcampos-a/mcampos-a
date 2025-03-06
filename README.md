@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Campos</h1>
 <h3 align="center">A passionate full-stack software engineer from Arizona</h3>
 
-- 🔭 I’m currently working on **Field Sampler 2.0**
+- 🔭 I’m currently working on **wellSampler 2.0**
 
 - 🌱 I’m currently learning **React, Node.js, Express, JavaScript**
 
