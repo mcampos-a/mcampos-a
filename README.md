@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Campos</h1>
 <h3 align="center">A passionate full-stack software engineer from Arizona</h3>
 
-- 🔭 I’m currently working on **wellSampler 2.0**
+- 🔭 I’m currently working on **Well Sampler**
 
 - 🌱 I’m currently learning **React, Node.js, Express, JavaScript**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mcampos2a@gmail.com**
 
-- ⚡ Fun fact **I speak two languages and am a sand volleyball aficionado**
+- ⚡ Fun fact **Love to play sand volleyball and I speak two languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
