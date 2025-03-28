@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mcampos2a@gmail.com**
 
-- ⚡ Fun fact **Love to play sand volleyball and I speak two languages**
+- ⚡ Fun fact ** I Love to play sand volleyball and I speak two languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
