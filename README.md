@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max Campos</h1>
 <h3 align="center">A passionate full-stack software engineer from Arizona</h3>
 
-- 🔭 I’m currently working on **Well Sampler**
+- 🔭 I’m currently working on **Well Sampler** a full-stack web application for water engineers
 
-- 🌱 I’m currently learning **React, Node.js, Express, JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
 
