@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Well Sampler** a full-stack web application for water engineers
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
 
-- 💬 Ask me about **Node.js, Express, JavaScript or anything to do about water management in the US South West**
+- 💬 Ask me about **React, Node.js, Express, JavaScript or anything to do about water management in the US South West**
 
 - 📫 How to reach me **mcampos2a@gmail.com**
 
