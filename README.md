@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Well Sampler** a full-stack web application for water engineers
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
 
