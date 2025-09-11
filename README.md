@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Campos</h1>
-<h3 align="center">A passionate full-stack software engineer from Arizona</h3>
+<h3 align="center">A passionate software engineer from Arizona</h3>
 
 - 🔭 I’m currently working on **Well Sampler** a full-stack web application for water engineers
 
