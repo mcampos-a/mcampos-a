@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
 
-- 💬 Ask me about **React, Node.js, Express, JavaScript or anything to do about water management in the US South West**
+- 💬 Ask me about **React, Node.js, Express, JavaScript or anything about water management in the US South West**
 
 - 📫 How to reach me **mcampos2a@gmail.com**
 
