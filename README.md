@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All my projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
+- 👨‍💻 My projects are available at [https://mcamposa.netlify.app/](https://mcamposa.netlify.app/)
 
 - 💬 Ask me about **React, Node.js, Express, JavaScript or anything about water management in the US South West**
 
